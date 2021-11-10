@@ -34,18 +34,17 @@ https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 - ISP  ==> 網際網路服務業者（Internet service provider, ISP）
 - ISP  ==> 網際網路服務業者（Internet service provider, ISP）:網際網路服務供應商透過固網早期的撥號連線、後來的ADSL（非對稱數位使用者線路）、FTTx（光纖）、數據專線或是行動網路等方式提供網際網路存取服務予客戶
 - 網路(硬體)設備: 集線器（hub） 交換器（switch） 路由器（router） 數據機（modem）
-- 網路介面卡（network interface card, NIC）
-- 網路拓樸（network topology）
-- 網路架構（network architecture）
-- 主從式網路（client/server network）
+- 網路介面卡（network interface card, NIC）:允許電腦在電腦網路上進行通訊的電腦硬體。由於其擁有MAC位址，因此屬於OSI模型的第2層。它使得使用者可以通過電纜或無線相互連接。
+- 網路拓樸（network topology）:構成網路的成員間特定的排列方式，一般分為物理的、真實的、配線上的結構，或邏輯的、虛擬的、程式設計上
+- 網路架構（network architecture）:
+- 主從式網路（client/server network）:
 - 主從式網路（client/server network）:把客戶端（Client，通常是一個採用圖形化使用者介面的程式）與伺服器（Server）區分開來。
 - 點對點網路（peer-to-peer network, P2P network）
-- 區域網路（local area network, LAN）
-- 廣域網路（wide area network, WAN）
-- 都會區域網路（metropolitan area network, MAN）
-- 個人區域網路（personal area network, PAN）
-- 個人區域網路（personal area network, PAN）
-- VPN(必考題)
+- 區域網路（local area network, LAN）:
+- 廣域網路（wide area network, WAN）:
+- 都會區域網路（metropolitan area network, MAN）:指大型的計算機網路，屬於IEEE802.6標準，是介於LAN和WAN之間能傳輸語音與資料的公用網路
+- 個人區域網路（personal area network, PAN）:指個人範圍（隨身攜帶或數米之內）的計算裝置（如電腦、電話、PDA、數位相機等）組成的通信網路
+- VPN(必考題): 將專用網路延伸到公共網路上，使使用者能夠在共享或公共網路上傳送和接收資料,VPN是通過使用專用線路或在現有網路上使用隧道協定建立一個虛擬的對等連接而形成的
 - 個人區域網路（personal area network, PAN）:個人範圍（隨身攜帶或數米之內）的計算裝置組成的通信網路。個人區域網路即可用於這些裝置之間互相交換資料，也可以用於連接到高層網路或網際網路。個人區域網路可以是有線的形式，例如USB或者Firewire（IEEE1394）匯流排；也可以是無線的形式，例如紅外（IrDA）或藍牙
 - VPN(必考題):常用於連接中、大型企業或團體間私人網路的通訊方法,許多公司企業的員工等使用虛擬私人網路（VPN）來存取其內部的網路，以達到遠程辦公的作用。
 - `inter`et. `intra`net, `extra`net
